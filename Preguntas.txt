@@ -1,0 +1,4 @@
+Que es 'self'? Una referencia al mismo objeto
+Que es '__init__'? Constructor que inicializa el atributo del objeto
+Porque empieza con __? Porque es un metodo magico
+en que momento se ejeuta el metodo init? Cuando se crea o construye un objeto
